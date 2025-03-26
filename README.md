@@ -2,8 +2,7 @@
 
 A machine learning model that classifies emails as **spam** or **ham (non-spam)** using Natural Language Processing (NLP).
 
-![Demo](https://spam-email-classifier-w6br.onrender.com) 
-
+![Spam Email Classifier](assets/image.png)
 ## 🚀 Features
 - Preprocesses email text (stopword removal, stemming, tokenization)
 - Trains using **Naive Bayes** (or Logistic Regression)
