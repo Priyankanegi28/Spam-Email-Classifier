@@ -2,7 +2,7 @@
 
 A machine learning model that classifies emails as **spam** or **ham (non-spam)** using Natural Language Processing (NLP).
 
-![Demo](https://img.shields.io/badge/Demo-Live-green) 
+![Demo]([https://spam-email-classifier-w6br.onrender.com]) 
 
 ## 🚀 Features
 - Preprocesses email text (stopword removal, stemming, tokenization)
